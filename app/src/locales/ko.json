@@ -1,0 +1,143 @@
+{
+  "home": {
+    "hello": "안녕하세요",
+    "welcome": "당신의 집에 오신 것을 환영합니다"
+  },
+  "login": {
+    "emailAndPasswordCheck": "로그인 실패. 이메일과 비밀번호를 확인하세요.",
+    "loginTryAgain": "로그인 실패. 나중에 다시 시도하세요.",
+    "emailPasswordEnter": "이메일과 비밀번호를 입력하세요",
+    "loginTitle": "로그인",
+    "emailPlaceHolder": "이메일",
+    "passwordPlaceHolder": "비밀번호",
+    "doNotHaveAccount": "계정이 없으신가요?"
+  },
+  "register": {
+    "success": "성공",
+    "error": "오류",
+    "passwordNotMatch": "비밀번호가 일치하지 않습니다",
+    "registrationFail": "등록 실패. 나중에 다시 시도하세요.",
+    "fillInput": "모든 필드를 입력하세요",
+    "successRegistration": "등록 성공",
+    "registerTitle": "등록",
+    "confirmPasswordPlaceHolder": "비밀번호 확인",
+    "alreadyHaveAccount": "이미 계정이 있으신가요?",
+    "createAccount": "계정 만들기",
+    "usernamePlaceHolder": "사용자 이름",
+    "retypePassword": "비밀번호 다시 입력"
+  },
+  "addDeviceModal": {
+    "addFail": "장치 추가 실패.",
+    "inputCheck": "장치 이름을 입력하고 장치 유형을 선택하세요",
+    "addDeviceTitle": "새 장치 추가",
+    "room": "방",
+    "deviceName": "장치 이름",
+    "deviceType": "장치 유형",
+    "devicePort": "장치 포트",
+    "addDevice": "장치 추가"
+  },
+  "deviceList": {
+    "devices": "장치",
+    "noDeviceFound": "장치를 찾을 수 없습니다"
+  },
+  "editDeviceModal": {
+    "failToUpdateDevice": "장치 업데이트 실패.",
+    "inputCheck": "장치 이름과 장치 유형 및 방을 선택하세요.",
+    "editDeviceTitle": "장치 업데이트"
+  },
+  "scheduleModal": {
+    "setTurnOn": "켤 시간 설정",
+    "setTurnOff": "끔 시간 설정"
+  },
+  "addHomeModal": {
+    "failToAdd": "집 추가 실패.",
+    "inputCheck": "집 이름과 집 IP를 입력하세요",
+    "addHomeTitle": "새 집 추가",
+    "homeName": "집 이름"
+  },
+  "editHomeModal": {
+    "failToUpdate": "집 업데이트 실패.",
+    "inputCheck": "집 이름과 집 IP를 입력하세요",
+    "editHomeTitle": "집 업데이트",
+    "homeToken": "집 토큰:"
+  },
+  "getStartedNewHome": {
+    "getStarted": "완벽한 꿈의 집을 시작하세요",
+    "addNewHome": "새 집을 추가하여 장치를 관리하기 시작하세요"
+  },
+  "addRoomModal": {
+    "failToAdd": "방 추가 실패.",
+    "inputCheck": "방 이름을 입력하고 방 유형을 선택하세요",
+    "addRoomTitle": "새 방 추가",
+    "roomName": "방 이름",
+    "roomType": "방 유형",
+    "addRoom": "방 추가"
+  },
+  "editRoomModal": {
+    "failToUpdate": "방 업데이트 실패.",
+    "inputCheck": "방 이름을 입력하고 방 유형을 선택하세요",
+    "editRoomTitle": "방 업데이트"
+  },
+  "roomList": {
+    "rooms": "방",
+    "noRoomFound": "방을 찾을 수 없습니다"
+  },
+  "roomMenu": {
+    "deleteRoom": "방 삭제",
+    "confirmDelete": "방을 삭제하시겠습니까?",
+    "confirmText": "삭제"
+  },
+  "drawerMenu": {
+    "title": "설정",
+    "language": "언어",
+    "customize": "맞춤화",
+    "theme": "테마",
+    "logout": "로그아웃",
+    "logoutConfirmMessage": "로그아웃 하시겠습니까?",
+    "logoutConfirmText": "로그아웃"
+  },
+  "timePicker": {
+    "hour": "시간",
+    "minute": "분"
+  },
+  "device": {
+    "schedule": "일정",
+    "setSchedule": "장치 일정을 설정하세요",
+    "autoTurnOn": "장치 자동 켜기",
+    "autoTurnOff": "장치 자동 끄기",
+    "confirmDeleteDevice": "장치를 삭제하시겠습니까?",
+    "confirmText": "삭제",
+    "sensorData": "센서 데이터 차트",
+    "temperature": "온도",
+    "humidity": "습도"
+  },
+  "days": {
+    "Sun": "일",
+    "Mon": "월",
+    "Tue": "화",
+    "Wed": "수",
+    "Thu": "목",
+    "Fri": "금",
+    "Sat": "토",
+    "Today": "오늘"
+  },
+  "deviceType": {
+    "light": "조명",
+    "fan": "선풍기",
+    "screen": "스크린",
+    "sensor": "센서",
+    "camera": "카메라"
+  },
+  "roomType": {
+    "livingRoom": "거실",
+    "bedRoom": "침실",
+    "kitchen": "주방",
+    "bathroom": "욕실",
+    "diningRoom": "식당",
+    "other": "방"
+  },
+  "cancel": "취소",
+  "repeat": "반복",
+  "selectLanguage": "언어 선택",
+  "findDevice": "장치 찾기"
+}

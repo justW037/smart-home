@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963261660186",
+    "project_id": "smart-home-fffdf",
+    "storage_bucket": "smart-home-fffdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963261660186:android:154f1d686f7ab87de765a3",
+        "android_client_info": {
+          "package_name": "com.vuav2003.smarthome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeKEBSjCCTxrcjq2urW5gjgoQ0ZP8XPuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

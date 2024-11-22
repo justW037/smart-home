@@ -1,0 +1,144 @@
+{
+    "home": {
+      "hello": "こんにちは",
+      "welcome": "ようこそ"
+    },
+    "login": {
+      "emailAndPasswordCheck": "ログインに失敗しました。メールとパスワードを確認してください。",
+      "loginTryAgain": "ログインに失敗しました。後でもう一度お試しください。",
+      "emailPasswordEnter": "メールとパスワードを入力してください",
+      "loginTitle": "ログイン",
+      "emailPlaceHolder": "メール",
+      "passwordPlaceHolder": "パスワード",
+      "doNotHaveAccount": "アカウントをお持ちでないですか？"
+    },
+    "register": {
+      "success": "成功",
+      "error": "エラー",
+      "passwordNotMatch": "パスワードが一致しません",
+      "registrationFail": "登録に失敗しました。後でもう一度お試しください。",
+      "fillInput": "すべての項目を入力してください",
+      "successRegistration": "登録に成功しました",
+      "registerTitle": "登録",
+      "confirmPasswordPlaceHolder": "パスワードを確認",
+      "alreadyHaveAccount": "すでにアカウントをお持ちですか？",
+      "createAccount": "アカウントを作成",
+      "usernamePlaceHolder": "ユーザー名",
+      "retypePassword": "パスワードを再入力"
+    },
+    "addDeviceModal": {
+      "addFail": "デバイスの追加に失敗しました。",
+      "inputCheck": "デバイス名を入力し、デバイスタイプを選択してください",
+      "addDeviceTitle": "新しいデバイスを追加",
+      "room": "部屋",
+      "deviceName": "デバイス名",
+      "deviceType": "デバイスタイプ",
+      "devicePort": "デバイスポート",
+      "addDevice": "デバイスを追加"
+    },
+    "deviceList": {
+      "devices": "デバイス",
+      "noDeviceFound": "デバイスが見つかりません"
+    },
+    "editDeviceModal": {
+      "failToUpdateDevice": "デバイスの更新に失敗しました。",
+      "inputCheck": "デバイス名を入力し、デバイスタイプと部屋を選択してください",
+      "editDeviceTitle": "デバイスを更新"
+    },
+    "scheduleModal": {
+      "setTurnOn": "オンスケジュールを設定",
+      "setTurnOff": "オフスケジュールを設定"
+    },
+    "addHomeModal": {
+      "failToAdd": "家の追加に失敗しました。",
+      "inputCheck": "家の名前とIPを入力してください",
+      "addHomeTitle": "新しい家を追加",
+      "homeName": "家の名前"
+    },
+    "editHomeModal": {
+      "failToUpdate": "家の更新に失敗しました。",
+      "inputCheck": "家の名前とIPを入力してください",
+      "editHomeTitle": "家を更新",
+      "homeToken": "家のトークン:"
+    },
+    "getStartedNewHome": {
+      "getStarted": "あなたの完璧な夢の家を始めましょう",
+      "addNewHome": "新しい家を追加して、デバイスの管理を開始しましょう"
+    },
+    "addRoomModal": {
+      "failToAdd": "部屋の追加に失敗しました。",
+      "inputCheck": "部屋の名前を入力し、部屋のタイプを選択してください",
+      "addRoomTitle": "新しい部屋を追加",
+      "roomName": "部屋の名前",
+      "roomType": "部屋のタイプ",
+      "addRoom": "部屋を追加"
+    },
+    "editRoomModal": {
+      "failToUpdate": "部屋の更新に失敗しました。",
+      "inputCheck": "部屋の名前を入力し、部屋のタイプを選択してください",
+      "editRoomTitle": "部屋を更新"
+    },
+    "roomList": {
+      "rooms": "部屋",
+      "noRoomFound": "部屋が見つかりません"
+    },
+    "roomMenu": {
+      "deleteRoom": "部屋を削除",
+      "confirmDelete": "部屋を削除してもよろしいですか？",
+      "confirmText": "削除"
+    },
+    "drawerMenu": {
+      "title": "設定",
+      "language": "言語",
+      "customize": "カスタマイズ",
+      "theme": "テーマ",
+      "logout": "ログアウト",
+      "logoutConfirmMessage": "ログアウトしてもよろしいですか？",
+      "logoutConfirmText": "ログアウト"
+    },
+    "timePicker": {
+      "hour": "時",
+      "minute": "分"
+    },
+    "device": {
+      "schedule": "スケジュール",
+      "setSchedule": "デバイスのスケジュールを設定",
+      "autoTurnOn": "デバイスを自動でオンにする",
+      "autoTurnOff": "デバイスを自動でオフにする",
+      "confirmDeleteDevice": "デバイスを削除してもよろしいですか？",
+      "confirmText": "削除",
+      "sensorData": "センサーデータチャート",
+      "temperature": "温度",
+      "humidity": "湿度"
+    },
+    "days": {
+      "Sun": "日",
+      "Mon": "月",
+      "Tue": "火",
+      "Wed": "水",
+      "Thu": "木",
+      "Fri": "金",
+      "Sat": "土",
+      "Today": "今日"
+    },
+    "deviceType": {
+      "light": "ライト",
+      "fan": "ファン",
+      "screen": "スクリーン",
+      "sensor": "センサー",
+      "camera": "カメラ"
+    },
+    "roomType": {
+      "livingRoom": "リビングルーム",
+      "bedRoom": "寝室",
+      "kitchen": "キッチン",
+      "bathroom": "バスルーム",
+      "diningRoom": "ダイニング",
+      "other": "部屋"
+    },
+    "cancel": "キャンセル",
+    "repeat": "繰り返す",
+    "selectLanguage": "言語を選択",
+    "findDevice": "デバイスを探す"
+  }
+  

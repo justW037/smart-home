@@ -1,0 +1,143 @@
+{
+  "home": {
+    "hello": "你好",
+    "welcome": "欢迎来到"
+  },
+  "login": {
+    "emailAndPasswordCheck": "登录失败。请检查您的邮箱和密码。",
+    "loginTryAgain": "登录失败。请稍后再试。",
+    "emailPasswordEnter": "请输入您的邮箱和密码",
+    "loginTitle": "登录",
+    "emailPlaceHolder": "邮箱",
+    "passwordPlaceHolder": "密码",
+    "doNotHaveAccount": "还没有账号？"
+  },
+  "register": {
+    "success": "成功",
+    "error": "错误",
+    "passwordNotMatch": "密码不匹配",
+    "registrationFail": "注册失败。请稍后再试。",
+    "fillInput": "请填写所有字段",
+    "successRegistration": "注册成功",
+    "registerTitle": "注册",
+    "confirmPasswordPlaceHolder": "确认密码",
+    "alreadyHaveAccount": "已经有账号？",
+    "createAccount": "创建账号",
+    "usernamePlaceHolder": "用户名",
+    "retypePassword": "重新输入密码"
+  },
+  "addDeviceModal": {
+    "addFail": "添加设备失败。",
+    "inputCheck": "请输入设备名称并选择设备类型",
+    "addDeviceTitle": "添加新设备",
+    "room": "房间",
+    "deviceName": "设备名称",
+    "deviceType": "设备类型",
+    "devicePort": "设备端口",
+    "addDevice": "添加设备"
+  },
+  "deviceList": {
+    "devices": "设备",
+    "noDeviceFound": "未找到设备"
+  },
+  "editDeviceModal": {
+    "failToUpdateDevice": "更新设备失败。",
+    "inputCheck": "请输入设备名称并选择设备类型和房间",
+    "editDeviceTitle": "更新设备"
+  },
+  "scheduleModal": {
+    "setTurnOn": "设置开启计划",
+    "setTurnOff": "设置关闭计划"
+  },
+  "addHomeModal": {
+    "failToAdd": "添加家失败。",
+    "inputCheck": "请输入家庭名称和家庭IP",
+    "addHomeTitle": "添加新家",
+    "homeName": "家庭名称"
+  },
+  "editHomeModal": {
+    "failToUpdate": "更新家庭失败。",
+    "inputCheck": "请输入家庭名称和家庭IP",
+    "editHomeTitle": "更新家庭",
+    "homeToken": "家庭令牌："
+  },
+  "getStartedNewHome": {
+    "getStarted": "开始打造完美的梦想之家",
+    "addNewHome": "添加一个新家，开始管理您的设备"
+  },
+  "addRoomModal": {
+    "failToAdd": "添加房间失败。",
+    "inputCheck": "请输入房间名称并选择房间类型",
+    "addRoomTitle": "添加新房间",
+    "roomName": "房间名称",
+    "roomType": "房间类型",
+    "addRoom": "添加房间"
+  },
+  "editRoomModal": {
+    "failToUpdate": "更新房间失败。",
+    "inputCheck": "请输入房间名称并选择房间类型",
+    "editRoomTitle": "更新房间"
+  },
+  "roomList": {
+    "rooms": "房间",
+    "noRoomFound": "未找到房间"
+  },
+  "roomMenu": {
+    "deleteRoom": "删除房间",
+    "confirmDelete": "确认删除房间？",
+    "confirmText": "删除"
+  },
+  "drawerMenu": {
+    "title": "设置",
+    "language": "语言",
+    "customize": "自定义",
+    "theme": "主题",
+    "logout": "退出登录",
+    "logoutConfirmMessage": "您确定要退出登录吗？",
+    "logoutConfirmText": "退出登录"
+  },
+  "timePicker": {
+    "hour": "小时",
+    "minute": "分钟"
+  },
+  "device": {
+    "schedule": "计划",
+    "setSchedule": "为您的设备设置计划",
+    "autoTurnOn": "设备自动开启",
+    "autoTurnOff": "设备自动关闭",
+    "confirmDeleteDevice": "确认删除设备？",
+    "confirmText": "删除",
+    "sensorData": "传感器数据图表",
+    "temperature": "温度",
+    "humidity": "湿度"
+  },
+  "days": {
+    "Sun": "日",
+    "Mon": "一",
+    "Tue": "二",
+    "Wed": "三",
+    "Thu": "四",
+    "Fri": "五",
+    "Sat": "六",
+    "Today": "今天"
+  },
+  "deviceType": {
+    "light": "灯",
+    "fan": "风扇",
+    "screen": "屏幕",
+    "sensor": "传感器",
+    "camera": "相机"
+  },
+  "roomType": {
+    "livingRoom": "客厅",
+    "bedRoom": "卧室",
+    "kitchen": "厨房",
+    "bathroom": "浴室",
+    "diningRoom": "餐厅",
+    "other": "房间"
+  },
+  "cancel": "取消",
+  "repeat": "重复",
+  "selectLanguage": "选择语言",
+  "findDevice": "寻找设备"
+}

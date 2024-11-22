@@ -1,0 +1,143 @@
+{
+  "home": {
+    "hello": "Xin chào",
+    "welcome": "Chào mừng đến với"
+  },
+  "login": {
+    "emailAndPasswordCheck": "Đăng nhập thất bại. Vui lòng kiểm tra email và mật khẩu.",
+    "loginTryAgain": "Đăng nhập thất bại. Vui lòng thử lại sau.",
+    "emailPasswordEnter": "Vui lòng nhập email và mật khẩu của bạn",
+    "loginTitle": "Đăng nhập",
+    "emailPlaceHolder": "Email",
+    "passwordPlaceHolder": "Mật khẩu",
+    "doNotHaveAccount": "Bạn chưa có tài khoản?"
+  },
+  "register": {
+    "success": "Thành công",
+    "error": "Lỗi",
+    "passwordNotMatch": "Mật khẩu không khớp",
+    "registrationFail": "Đăng ký thất bại. Vui lòng thử lại sau.",
+    "fillInput": "Vui lòng điền đầy đủ các trường",
+    "successRegistration": "Đăng ký thành công",
+    "registerTitle": "Đăng ký",
+    "confirmPasswordPlaceHolder": "Xác nhận mật khẩu",
+    "alreadyHaveAccount": "Bạn đã có tài khoản?",
+    "createAccount": "Tạo tài khoản",
+    "usernamePlaceHolder": "Tên người dùng",
+    "retypePassword": "Nhập lại mật khẩu"
+  },
+  "addDeviceModal": {
+    "addFail": "Thêm thiết bị thất bại.",
+    "inputCheck": "Vui lòng nhập tên thiết bị và chọn loại thiết bị",
+    "addDeviceTitle": "Thêm Thiết Bị Mới",
+    "room": "Phòng",
+    "deviceName": "Tên thiết bị",
+    "deviceType": "Loại thiết bị",
+    "devicePort": "Cổng thiết bị",
+    "addDevice": "Thêm thiết bị"
+  },
+  "deviceList": {
+    "devices": "Thiết bị",
+    "noDeviceFound": "Không tìm thấy thiết bị"
+  },
+  "editDeviceModal": {
+    "failToUpdateDevice": "Cập nhật thiết bị thất bại.",
+    "inputCheck": "Vui lòng nhập tên thiết bị và chọn loại thiết bị cùng phòng",
+    "editDeviceTitle": "Cập Nhật Thiết Bị"
+  },
+  "scheduleModal": {
+    "setTurnOn": "Đặt Lịch Bật",
+    "setTurnOff": "Đặt Lịch Tắt"
+  },
+  "addHomeModal": {
+    "failToAdd": "Thêm nhà thất bại.",
+    "inputCheck": "Vui lòng nhập tên nhà và IP nhà",
+    "addHomeTitle": "Thêm Nhà Mới",
+    "homeName": "Tên nhà"
+  },
+  "editHomeModal": {
+    "failToUpdate": "Cập nhật nhà thất bại.",
+    "inputCheck": "Vui lòng nhập tên nhà và IP nhà",
+    "editHomeTitle": "Cập Nhật Nhà",
+    "homeToken": "Mã token nhà:"
+  },
+  "getStartedNewHome": {
+    "getStarted": "Bắt đầu xây dựng ngôi nhà mơ ước hoàn hảo của bạn",
+    "addNewHome": "Thêm một ngôi nhà mới để bắt đầu quản lý các thiết bị của bạn"
+  },
+  "addRoomModal": {
+    "failToAdd": "Thêm phòng thất bại.",
+    "inputCheck": "Vui lòng nhập tên phòng và chọn loại phòng",
+    "addRoomTitle": "Thêm Phòng Mới",
+    "roomName": "Tên phòng",
+    "roomType": "Loại phòng",
+    "addRoom": "Thêm phòng"
+  },
+  "editRoomModal": {
+    "failToUpdate": "Cập nhật phòng thất bại.",
+    "inputCheck": "Vui lòng nhập tên phòng và chọn loại phòng",
+    "editRoomTitle": "Cập Nhật Phòng"
+  },
+  "roomList": {
+    "rooms": "Phòng",
+    "noRoomFound": "Không tìm thấy phòng"
+  },
+  "roomMenu": {
+    "deleteRoom": "Xóa Phòng",
+    "confirmDelete": "Xác nhận xóa phòng?",
+    "confirmText": "Xóa"
+  },
+  "drawerMenu": {
+    "title": "Cài Đặt",
+    "language": "Ngôn ngữ",
+    "customize": "Tùy chỉnh",
+    "theme": "Chủ đề",
+    "logout": "Đăng xuất",
+    "logoutConfirmMessage": "Bạn có chắc chắn muốn đăng xuất?",
+    "logoutConfirmText": "Đăng xuất"
+  },
+  "timePicker": {
+    "hour": "Giờ",
+    "minute": "Phút"
+  },
+  "device": {
+    "schedule": "Lịch trình",
+    "setSchedule": "Đặt lịch cho thiết bị của bạn",
+    "autoTurnOn": "Tự động bật thiết bị",
+    "autoTurnOff": "Tự động tắt thiết bị",
+    "confirmDeleteDevice": "Xác nhận xóa thiết bị?",
+    "confirmText": "Xóa",
+    "sensorData": "Biểu đồ dữ liệu cảm biến",
+    "temperature": "Nhiệt độ",
+    "humidity": "Độ ẩm"
+  },
+  "days": {
+    "Sun": "CN",
+    "Mon": "T2",
+    "Tue": "T3",
+    "Wed": "T4",
+    "Thu": "T5",
+    "Fri": "T6",
+    "Sat": "T7",
+    "Today": "Hôm nay"
+  },
+  "deviceType": {
+    "light": "Đèn",
+    "fan": "Quạt",
+    "screen": "Màn hình",
+    "sensor": "Cảm biến",
+    "camera": "Camera"
+  },
+  "roomType": {
+    "livingRoom": "Phòng khách",
+    "bedRoom": "Phòng ngủ",
+    "kitchen": "Nhà bếp",
+    "bathroom": "Phòng tắm",
+    "diningRoom": "Phòng ăn",
+    "other": "Phòng"
+  },
+  "cancel": "Hủy",
+  "repeat": "Lặp lại",
+  "selectLanguage": "Chọn ngôn ngữ",
+   "findDevice": "Tìm thiết bị"
+}

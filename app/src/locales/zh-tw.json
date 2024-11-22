@@ -1,0 +1,143 @@
+{
+  "home": {
+    "hello": "你好",
+    "welcome": "歡迎來到"
+  },
+  "login": {
+    "emailAndPasswordCheck": "登錄失敗。請檢查您的郵箱和密碼。",
+    "loginTryAgain": "登錄失敗。請稍後再試。",
+    "emailPasswordEnter": "請輸入您的郵箱和密碼",
+    "loginTitle": "登錄",
+    "emailPlaceHolder": "郵箱",
+    "passwordPlaceHolder": "密碼",
+    "doNotHaveAccount": "還沒有賬號？"
+  },
+  "register": {
+    "success": "成功",
+    "error": "錯誤",
+    "passwordNotMatch": "密碼不匹配",
+    "registrationFail": "註冊失敗。請稍後再試。",
+    "fillInput": "請填寫所有字段",
+    "successRegistration": "註冊成功",
+    "registerTitle": "註冊",
+    "confirmPasswordPlaceHolder": "確認密碼",
+    "alreadyHaveAccount": "已經有賬號？",
+    "createAccount": "創建賬號",
+    "usernamePlaceHolder": "用戶名",
+    "retypePassword": "重新輸入密碼"
+  },
+  "addDeviceModal": {
+    "addFail": "添加設備失敗。",
+    "inputCheck": "請輸入設備名稱並選擇設備類型",
+    "addDeviceTitle": "添加新設備",
+    "room": "房間",
+    "deviceName": "設備名稱",
+    "deviceType": "設備類型",
+    "devicePort": "設備端口",
+    "addDevice": "添加設備"
+  },
+  "deviceList": {
+    "devices": "設備",
+    "noDeviceFound": "未找到設備"
+  },
+  "editDeviceModal": {
+    "failToUpdateDevice": "更新設備失敗。",
+    "inputCheck": "請輸入設備名稱並選擇設備類型和房間",
+    "editDeviceTitle": "更新設備"
+  },
+  "scheduleModal": {
+    "setTurnOn": "設定開啟計劃",
+    "setTurnOff": "設定關閉計劃"
+  },
+  "addHomeModal": {
+    "failToAdd": "添加家庭失敗。",
+    "inputCheck": "請輸入家庭名稱和家庭IP",
+    "addHomeTitle": "添加新家庭",
+    "homeName": "家庭名稱"
+  },
+  "editHomeModal": {
+    "failToUpdate": "更新家庭失敗。",
+    "inputCheck": "請輸入家庭名稱和家庭IP",
+    "editHomeTitle": "更新家庭",
+    "homeToken": "家庭令牌："
+  },
+  "getStartedNewHome": {
+    "getStarted": "開始打造完美的夢想之家",
+    "addNewHome": "添加一個新家庭，開始管理您的設備"
+  },
+  "addRoomModal": {
+    "failToAdd": "添加房間失敗。",
+    "inputCheck": "請輸入房間名稱並選擇房間類型",
+    "addRoomTitle": "添加新房間",
+    "roomName": "房間名稱",
+    "roomType": "房間類型",
+    "addRoom": "添加房間"
+  },
+  "editRoomModal": {
+    "failToUpdate": "更新房間失敗。",
+    "inputCheck": "請輸入房間名稱並選擇房間類型",
+    "editRoomTitle": "更新房間"
+  },
+  "roomList": {
+    "rooms": "房間",
+    "noRoomFound": "未找到房間"
+  },
+  "roomMenu": {
+    "deleteRoom": "刪除房間",
+    "confirmDelete": "確認刪除房間？",
+    "confirmText": "刪除"
+  },
+  "drawerMenu": {
+    "title": "設置",
+    "language": "語言",
+    "customize": "自定義",
+    "theme": "主題",
+    "logout": "登出",
+    "logoutConfirmMessage": "您確定要登出嗎？",
+    "logoutConfirmText": "登出"
+  },
+  "timePicker": {
+    "hour": "小時",
+    "minute": "分鐘"
+  },
+  "device": {
+    "schedule": "計劃",
+    "setSchedule": "為您的設備設置計劃",
+    "autoTurnOn": "設備自動開啟",
+    "autoTurnOff": "設備自動關閉",
+    "confirmDeleteDevice": "確認刪除設備？",
+    "confirmText": "刪除",
+    "sensorData": "感測器數據圖表",
+    "temperature": "溫度",
+    "humidity": "濕度"
+  },
+  "days": {
+    "Sun": "日",
+    "Mon": "一",
+    "Tue": "二",
+    "Wed": "三",
+    "Thu": "四",
+    "Fri": "五",
+    "Sat": "六",
+    "Today": "今天"
+  },
+  "deviceType": {
+    "light": "燈",
+    "fan": "風扇",
+    "screen": "螢幕",
+    "sensor": "感測器",
+    "camera": "相機"
+  },
+  "roomType": {
+    "livingRoom": "客廳",
+    "bedRoom": "臥室",
+    "kitchen": "廚房",
+    "bathroom": "浴室",
+    "diningRoom": "餐廳",
+    "other": "房間"
+  },
+  "cancel": "取消",
+  "repeat": "重複",
+  "selectLanguage": "選擇語言",
+  "findDevice": "尋找設備"
+}

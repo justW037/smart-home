@@ -1,0 +1,143 @@
+{
+  "home": {
+    "hello": "Hi",
+    "welcome": "Welcome to your"
+  },
+  "login": {
+    "emailAndPasswordCheck": "Login failed. Please check your email and password.",
+    "loginTryAgain": "Login failed. Please try again later.",
+    "emailPasswordEnter": "Please enter your email and password",
+    "loginTitle": "Login",
+    "emailPlaceHolder": "Email",
+    "passwordPlaceHolder": "Password",
+    "doNotHaveAccount": "Don't have an account?"
+  },
+  "register": {
+    "success": "Success",
+    "error": "Error",
+    "passwordNotMatch": "Passwords do not match",
+    "registrationFail": "Registration failed. Please try again later.",
+    "fillInput": "Please fill in all fields",
+    "successRegistration": "Registration successful",
+    "registerTitle": "Register",
+    "confirmPasswordPlaceHolder": "Confirm Password",
+    "alreadyHaveAccount": "Already have an account?",
+    "createAccount": "Create Account",
+    "usernamePlaceHolder": "Username",
+    "retypePassword": "Retype Password"
+  },
+  "addDeviceModal": {
+    "addFail": "Failed to add device.",
+    "inputCheck": "Please enter device name and select device type",
+    "addDeviceTitle": "Add New Device",
+    "room": "Room",
+    "deviceName": "Device Name",
+    "deviceType": "Device Type",
+    "devicePort": "Device Port",
+    "addDevice": "Add Device"
+  },
+  "deviceList": {
+    "devices": "Devices",
+    "noDeviceFound": "No device founds"
+  },
+  "editDeviceModal": {
+    "failToUpdateDevice": "Failed to update device.",
+    "inputCheck": "Please enter device name and select device type and room",
+    "editDeviceTitle": "Update Device"
+  },
+  "scheduleModal": {
+    "setTurnOn": "Set Turn On Schedule",
+    "setTurnOff": "Set Turn Off Schedule"
+  },
+  "addHomeModal": {
+    "failToAdd": "Failed to add home.",
+    "inputCheck": "Please enter home name and home ip",
+    "addHomeTitle": "Add New Home",
+    "homeName": "Home name"
+  },
+  "editHomeModal": {
+    "failToUpdate": "Failed to update home.",
+    "inputCheck": "Please enter home name and home ip",
+    "editHomeTitle": "Update Home",
+    "homeToken": "Home token:"
+  },
+  "getStartedNewHome": {
+    "getStarted": "Get started the perfect dream house for you",
+    "addNewHome": "Add a new home to get started with managing your devices"
+  },
+  "addRoomModal": {
+    "failToAdd": "Failed to add room.",
+    "inputCheck": "Please enter room name and select room type",
+    "addRoomTitle": "Add New Room",
+    "roomName": "Room name",
+    "roomType": "Room type",
+    "addRoom": "Add room"
+  },
+  "editRoomModal": {
+    "failToUpdate": "Failed to update room.",
+    "inputCheck": "Please enter room name and select room type",
+    "editRoomTitle": "Update Room"
+  },
+  "roomList": {
+    "rooms": "Rooms",
+    "noRoomFound": "No room founds"
+  },
+  "roomMenu": {
+    "deleteRoom": "Delete Room",
+    "confirmDelete": "Confirm to delete room?",
+    "confirmText": "Delete"
+  },
+  "drawerMenu": {
+    "title": "Settings",
+    "language": "Language",
+    "customize": "Customize",
+    "theme": "Theme",
+    "logout": "Logout",
+    "logoutConfirmMessage": "Are you sure you want to logout?",
+    "logoutConfirmText": "Logout"
+  },
+  "timePicker": {
+    "hour": "Hour",
+    "minute": "Minute"
+  },
+  "device": {
+    "schedule": "Schedule",
+    "setSchedule": "Set schedule your device",
+    "autoTurnOn": "Auto turn on device",
+    "autoTurnOff": "Auto turn off device",
+    "confirmDeleteDevice": "Confirm to delete device?",
+    "confirmText": "Delete",
+    "sensorData": "Sensor data chart",
+    "temperature": "Temperature",
+    "humidity": "Humidity"
+  },
+  "days": {
+    "Sun": "Sun",
+    "Mon": "Mon",
+    "Tue": "Tue",
+    "Wed": "Wed",
+    "Thu": "Thu",
+    "Fri": "Fri",
+    "Sat": "Sat",
+    "Today": "Today"
+  },
+  "deviceType": {
+    "light": "Light",
+    "fan": "Fan",
+    "screen": "Screen",
+    "sensor": "Sensor",
+    "camera": "Camera"
+  },
+  "roomType": {
+    "livingRoom": "Living room",
+    "bedRoom": "Bedroom",
+    "kitchen": "Kitchen",
+    "bathroom": "Bathroom",
+    "diningRoom": "Dining",
+    "other": "Room"
+  },
+  "cancel": "Cancel",
+  "repeat": "Repeat",
+  "selectLanguage": "Select Language",
+  "findDevice": "Find device"
+}
